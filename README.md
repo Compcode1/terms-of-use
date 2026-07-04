@@ -1,5 +1,4 @@
-================================================================================
-LAB WORKBENCH: TERMS OF USE (ToU) COMPLIANCE GATE DEPLOYMENT
+TERMS OF USE (ToU) COMPLIANCE GATE DEPLOYMENT
 ================================================================================
 
 1. PRE-DEPLOYMENT TARGET IDENTIFICATION

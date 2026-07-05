@@ -134,7 +134,7 @@ Entra ID schema:
 
 
   ================================================================================
-PROJECT 1 DEPLOYMENT LOG: TERMS OF USE (ToU) COMPLIANCE GATE INTERFACE IMPASSE
+PROJECT 1 DEPLOYMENT LOG: TERMS OF USE (ToU) COMPLIANCE GATE INTERFACE IMPASSE 
 ================================================================================
 
 1. INCIDENT BREAKDOWN
